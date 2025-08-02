@@ -32,8 +32,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-![snake animation](https://github.com/adilson0001/adilson0001/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/adilson0001/adilson0001/output/snake.svg" alt="Snake animation" />
 
 
 
